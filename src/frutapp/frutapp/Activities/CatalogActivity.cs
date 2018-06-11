@@ -27,6 +27,6 @@ namespace frutapp.Activities
             // Create your application here
         }
 
-       
+
     }
 }
